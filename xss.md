@@ -23,8 +23,11 @@ Serangan XSS pertama kali di publikasi oleh aleph1 ( Apleph One) pada 17 Oktober
 ## 🏷️ Jenis XSS Attack
 
 - Presistent XSS ( Stored XSS )
+
 Presistent XSS adalah jenis serangan xss yang bersifat permanen dan dapat berakibat pada seluruh pengguna
+
 - Non-Presistent XSS
+
 Non-Presistent XSS adalah Jenis serangan yang bersifat non permanen, serangan ini akan hilang ketika dilakukan refresh atau semacamnya
 
 
@@ -45,12 +48,16 @@ jika muncul popup berarti vuln
 - ["XSS vulnerabilities in Google Cloud, Google Play could lead to account hijacks"](https://portswigger.net/daily-swig/xss-vulnerabilities-in-google-cloud-google-play-could-lead-to-account-hijacks) - *JesscaHaworth*
 - ["XSS on Google{5.000$}-Google Vulnerability Reward Program (VRP)"](https://sites.google.com/site/bugbountybughunter/home/stored-xss-in-google-image-search) - *cem yld*
 - ["Another Vulnerability"](https://github.com/xdavidhu/awesome-google-vrp-writeups)
+
 **EBAY**
 - ["Persistent (Stored) DOM XSS on ebay.com domain"](http://www.korznikov.com/2016/02/persistent-stored-dom-xss-on-ebaycom.html) - *nopernik*
+
 **NASA**
 - ["XSS NASA Sub Domain"](https://adelittle.medium.com/xss-nasa-sub-domain-308266dfd670) - *adelittle*
+
 **PAYPAL**
 - ["Finding DOM Polyglot XSS in PayPal the Easy Way"](https://portswigger.net/research/finding-dom-polyglot-xss-in-paypal-the-easy-way) - *Gareth Heyes*
+
 **Facebook**
 - ["Facebook DOM Based XSS using postMessage"](https://ysamm.com/?p=493) - *Samm0uda*
 - ["Another Vulnerability"](https://github.com/jaiswalakshansh/Facebook-BugBounty-Writeups)

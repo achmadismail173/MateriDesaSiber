@@ -38,8 +38,12 @@ dengan memberikan script
 ```Javascript
 <script>alert('This Vuln')</script> 
 ```
-![image.png](https://miro.medium.com/max/720/1*qSouyC55mdl0KDUTJRoXPQ.jpeg)
-
+```
+<p align="center">
+  <img width="460" height="300" src="https://miro.medium.com/max/720/1*qSouyC55mdl0KDUTJRoXPQ.jpeg">
+  <center><i>source: @adelittle</i></center>
+</p>
+```
 jika muncul popup berarti vuln
 
 
